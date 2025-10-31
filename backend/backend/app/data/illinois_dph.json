@@ -1,0 +1,530 @@
+[
+  {
+    "name": "breast",
+    "title": "Breast Cancer",
+    "description": "According to the Centers for Disease Control and Prevention each year in the United States, about 270,000 cases of breast cancer are diagnosed in women and about 2,300 in men. About 42,000 women and 500 men in the United States die each year from breast cancer. In 2021, Illinois reported 10,981 women and 117 men were diagnosed with breast cancer. During 2021, 1,697 women and 23 men died from breast cancer.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/breast.html"
+  },
+  {
+    "name": "colorectal",
+    "title": "Colorectal Cancer",
+    "description": "Colorectal cancer starts in the colon or rectum. The colon and rectum comprise the large intestine (or the large bowel), which is part of the digestive system, known as the gastrointestinal (GI) system.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/colorectal.html"
+  },
+  {
+    "name": "cervical",
+    "title": "Cervical Cancer",
+    "description": "Cervical cancer is a common kind of cancer found in women due to the cancer being found in the cells of the cervix. The cervix is the lower part of the uterus (womb) that connects to the vagina (birth canal). Cervical cancer begins when healthy cells develop changes (mutations) in their DNA. These mutations tell the cells to grow and multiply out of control and they don’t die. The abnormal cells begin to form a mass (tumor). When cells that are not normal begin to appear, this is called dysplasia.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/cervical.html"
+  },
+  {
+    "name": "prostate",
+    "title": "Prostate Cancer",
+    "description": "Prostate cancer is one of the most common types of cancer even though prostate cancer only occurs in males. The prostate is a small walnut-shaped gland that produces the seminal fluid that nourishes and transports the sperm. Many prostate cancers grow slowly and stay in the prostate gland, where the cancer might not cause serious harm; however, there are other types of prostate cancers that can be aggressive and can spread quickly",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/prostate.html"
+  },
+  {
+    "name": "oropharyngeal",
+    "title": "Oropharyngeal Cancer",
+    "description": "Oropharyngeal cancer is a type of head and neck cancer due to the location of the cancer. Oropharyngeal cancer is a type of cancer where malignant (cancer) cells form in the tissue of the oropharynx. More than 90% of oropharyngeal cancers are squamous cell carcinomas, which are cancers that arise from the flat surface cells that line your throat and mouth.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/oropharyngeal.html"
+  },
+  {
+    "name": "endometrial",
+    "title": "Endometrial Cancer",
+    "description": "What is endometriosis? Endometriosis is a common, yet poorly understood, disease that can strike women of any socioeconomic class, age or race. It is estimated that between 10 percent and 20 percent of American women of childbearing age have endometriosis. The disease can affect nearly every aspect of a woman's life--her ability to work, her ability to reproduce, and her",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/endometrial.html"
+  },
+  {
+    "name": "kidney",
+    "title": "Kidney Cancer",
+    "description": "Kidney cancer is cancer of the kidneys. The kidneys are two bean-shaped organs that filter blood. Renal cell carcinoma is the most common type of kidney cancer and accounts for more than 90% of kidney cancer cases. Like other cancers, renal cell carcinoma begins small and grows larger over time. Normally, renal cell carcinoma (RCC) will grow as a single mass within the kidneys; however, there can be multiple tumors in the kidney. Sometimes tumors can be found in both kidneys at the same time.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/kidney.html"
+  },
+  {
+    "name": "multiple-myeloma",
+    "title": "Multiple Myeloma",
+    "description": "Multiple myeloma is a type of cancer formed by cancerous plasma cells in the blood. Normal plasma cells are an important part of the body’s immune system. The immune system comprises several types of cells that work together to fight infections. Lymph cells (called “lymphocytes”) are the primary type of cell in the immune system. There are two types of lymph cells: T cells and B cells.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/multiple-myeloma.html"
+  },
+  {
+    "name": "leukemia",
+    "title": "Leukemia",
+    "description": "Leukemia starts in the soft, inner part of the bones (bone marrow), but often moves quickly into the blood. It can then spread to other parts of the body, such as the lymph nodes, spleen, liver, central nervous system, and other organs. Both children and adults can get leukemia, which is a complex disease with many different types and subtypes.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/leukemia.html"
+  },
+  {
+    "name": "liver",
+    "title": "Liver Cancer",
+    "description": "The liver is the largest internal organ in the body. It lies under the right ribs, just beneath the right lung and diaphragm (the membrane below the lungs that moves up and down as you breathe). The liver performs several vital functions. It processes and stores many of the nutrients absorbed from the intestine, makes some of the clotting factors needed to stop bleeding from a cut or injury, and secretes bile into the intestine to help absorb nutrients.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/liver.html"
+  },
+  {
+    "name": "lung",
+    "title": "Lung Cancer",
+    "description": "Lung cancer is the leading cause of death. In Illinois,  between 2016 and 2020, the mortality rate from lung cancer was 6.4%. Experts predict that in the next four years, twice as many women will die from lung cancer as from breast cancer.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/lung.html"
+  },
+  {
+    "name": "bladder",
+    "title": "Bladder Cancer",
+    "description": "Bladder cancer is a common type of cancer that begins in the cells of the bladder, a hollow muscular organ in the lower abdomen that stores urine. The kidneys carry urine through the ureters to the bladder and out of the body through the urethra.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/bladder.html"
+  },
+  {
+    "name": "pancreatic",
+    "title": "Pancreatic Cancer",
+    "description": "What is Pancreatic Cancer? The pancreas is a gland located deep in the abdomen between the stomach and the spine (back bone). It is about 6 inches long and less than 2 inches wide. It extends across the abdomen. The pancreas is really two separate glands inside the same organ. The exocrine gland makes enzymes to break down fats and proteins in foods so the body can use them.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/pancreatic.html"
+  },
+  {
+    "name": "skin",
+    "title": "Skin Cancer",
+    "description": "What is Skin Cancer? Skin cancer is the most common form of cancer in the United States. More than 90 percent of skin cancers are caused by sun exposure . Skin cancers are divided into two major groups: nonmelanoma and melanoma. Nonmelanoma skin cancers (usually basal cell and squamous cell) are the most common cancers of the skin. Nonmelanoma skin cancer develops from all",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/skin.html"
+  },
+  {
+    "name": "oral",
+    "title": "Oral Cancer",
+    "description": "Oral cancer starts in the mouth (oral cavity) and can interfere with the ability to breath, talk, eat, chew, or swallow. The oral cavity is easy to examine. When found early, treatment of oral cancer is likely to be successful.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/oral.html"
+  },
+  {
+    "name": "ovarian",
+    "title": "Ovarian Cancer",
+    "description": "The ovaries are the part of the female reproductive system that produces eggs every month during a woman’s reproductive years. They are located on either side of the lower abdomen. Ovarian cancer occurs when cells in the ovary grow and divide uncontrollably. The cells may form a tumor on the ovary or break off from the primary tumor and spread to other parts of the body. Although ovarian cancer can spread throughout the entire body, in most cases it stays in the abdomen and affects organs such as the intestines, liver, and stomach. There are many different types of ovarian cancer. However, most cancers of the ovary (85% to 90%) come from the cells that make up the outer lining of the organ and are called epithelial ovarian cancers.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/ovarian.html"
+  },
+  {
+    "name": "stomach",
+    "title": "Stomach Cancer",
+    "description": "What is Stomach Cancer? Stomach (gastric) cancer starts in the stomach, a sack-like organ that holds food and begins the digestion process. Cancer can start in any part of the stomach. The stomach has five layers. As cancer grows deeper into the layers, the prognosis for the patient gets worse. Starting from the inside, the innermost layer is called the mucosa. Next is a",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/stomach.html"
+  },
+  {
+    "name": "testicular",
+    "title": "Testicular Cancer",
+    "description": "What is Testicular Cancer? Testicular cancer typically develops in one or both testicles in men. It is a treatable and usually curable form of cancer. It generally affects those between 15 and 40 years of age. Facts: - According to the Illinois State Cancer Registry, in 2008, about 350 new cases of testicular cancer will be diagnosed in Illinois. About 20 Illinoisans are",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/testicular.html"
+  },
+  {
+    "name": "thyroid",
+    "title": "Thyroid Cancer",
+    "description": "What is Thyroid Cancer? Located in the neck just beneath the voice box, the thyroid is a gland which has two types of cells that make hormones. Follicular cells make thyroid hormone, which regulates body temperature, heart rate and energy levels. C cells make calcitonin hormone, which helps control calcium levels in the blood. There are three major forms of thyroid cancer:",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer/type/thyroid.html"
+  },
+  {
+    "name": "arthritis",
+    "title": "Arthritis",
+    "description": "What is arthritis? The term arthritis refers to about 120 different diseases that can affect the joints, muscles and other soft tissues. The three most common forms are osteoarthritis, fibromyalgia and rheumatoid arthritis. Osteoarthritis, also known as degenerative joint disease, is the most common type of arthritis, affecting an estimated 21 million adults in this country.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/arthritis.html"
+  },
+  {
+    "name": "alzheimers",
+    "title": "Alzheimer's Disease",
+    "description": "What Is Alzheimer's Disease? Alzheimer's is a specific disease of the brain that was identified more than 100 years ago, but research into its causes, risk factors and potential treatments has gained momentum only in the last 30 years. The hallmarks of Alzheimer's disease are the accumulation of abnormal proteins in the brain: clumps of beta-amyloid (called amyloid plaques)",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/alzheimers.html"
+  },
+  {
+    "name": "asthma",
+    "title": "Asthma",
+    "description": "What is asthma? Asthma is a condition that affects the airways. It makes it hard to breathe because the airways become swollen, produce too much mucus and the muscles around the airways tighten. Asthma can range from mild to severe and can be life threatening. It is recognized that in some families, inherited factors play a role in an individual's risk for asthma. If a parent,",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/asthma.html"
+  },
+  {
+    "name": "harmful-algal-blooms",
+    "title": "Harmful Algal Blooms (HABs)",
+    "description": "Groups of people who experience illness with similar symptoms after swimming in recreational water should contact their local health department for follow up. If you suspect a blue-green algal bloom on your lake or on a lake you have visited, you can report it to the Illinois EPA using the HAB report form. This form captures the environmental event and includes fields for the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/environmental-health-protection/toxicology/harmful-algal-blooms.html"
+  },
+  {
+    "name": "babesiosis",
+    "title": "Babesiosis",
+    "description": "What is Babesiosis? Babesiosis is caused by microscopic parasites that infect red blood cells. Babesia microti is the main species that has been found in people in the United States. How do people get infected with Babesia? The main route of transmission is through the bite of an infected tick. Babesia microti is spread by Ixodes scapularis ticks, which are commonly called",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/tickborne-illnesses/babesiosis.html"
+  },
+  {
+    "name": "cancer",
+    "title": "Cancer",
+    "description": "Cancer is a common disease, more common than many people realize. The National Cancer Institute estimates that 1 in 2 men in the United States has a lifetime risk of developing cancer; for women, the lifetime risk is 1 in 3. The number of people with cancer is increasing in most communities because more people are living to the age of greatest cancer occurrence.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/cancer.html"
+  },
+  {
+    "name": "carbon-monoxide",
+    "title": "Carbon Monoxide",
+    "description": "What Is Carbon Monoxide? Carbon monoxide (CO) is a non-irritating, odorless, colorless gas that is somewhat lighter than air. A by-product of incomplete burning of coal, wood, charcoal, natural gas, fuel oil, kerosene, gasoline, fabrics and plastics, it is the leading cause of poisoning deaths in the United States. How Does the New Carbon Monoxide Law Affect Me? Effective",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/prevention-wellness/injury-violence-prevention/carbon-monoxide.html"
+  },
+  {
+    "name": "heart-stroke",
+    "title": "Heart & Stroke",
+    "description": "Diseases of the Heart and Stroke: Illinois’ Leading Killers Heart disease and stroke are, respectively, the first and third leading causes of death, and also the major causes of disability in Illinois. In 2017 there were 25,393 deaths in Illinois due to heart disease and 6,021 deaths due to stroke. Deaths due heart disease and stroke combined (31,414) represent almost 29",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/heart-stroke.html"
+  },
+  {
+    "name": "diabetes",
+    "title": "Diabetes",
+    "description": "Diabetes is a serious chronic disease that poses a major health problem. Nearly 30.3 million people in the United States (9.4% of the population) have diabetes. About one-third of these people do not know they have diabetes. Each year, 1.5 million new cases of diabetes are diagnosed. In Illinois, approximately 1.3 million (12.5% of the population) adults have diabetes, but",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diabetes.html"
+  },
+  {
+    "name": "chlamydia",
+    "title": "Chlamydia",
+    "description": "What is chlamydia? Chlamydia is a common sexually transmitted disease (STD) caused by infection with Chlamydia trachomatis. It can cause cervicitis in women and urethritis and proctitis in both men and women. Chlamydial infections in women can lead to serious consequences including pelvic inflammatory disease (PID), tubal factor infertility, ectopic pregnancy, and chronic",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/stds/chlamydia.html"
+  },
+  {
+    "name": "chancroid",
+    "title": "Chancroid",
+    "description": "What is chancroid? Chancroid is a highly contagious yet curable sexually transmitted disease (STD) caused by the bacteria Haemophilus ducreyi [hum-AH-fill-us DOO-cray]. Chancroid causes ulcers, usually of the genitals. Swollen, painful lymph glands, or inguinal buboes [in-GWEEN-al BEW-boes], in the groin area are often associated with chancroid. Left untreated, chancroid may",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/stds/chancroid.html"
+  },
+  {
+    "name": "hiv-aids",
+    "title": "HIV/AIDS",
+    "description": "HIV remains a serious infectious disease in the world and here in Illinois. The good news is that there has been a great advance in knowledge and the development of effective tools to prevent infections and to prolong and improve quality of life for persons living with HIV. These next few pages provide information that begins with HIV education, testing, care, and support",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/hiv-aids.html"
+  },
+  {
+    "name": "covid19",
+    "title": "COVID-19",
+    "description": "People with COVID-19 have had a wide range of symptoms reported - ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. People with COVID-19 may have these symptoms: Fever or chills Cough Shortness of",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/respiratory-disease/diseases/covid19.html"
+  },
+  {
+    "name": "bacterial-vaginosis",
+    "title": "Bacterial Vaginosis",
+    "description": "What is bacterial vaginosis? Bacterial vaginosis (BV) is a condition in women where the normal balance of bacteria in the vagina is disrupted and replaced by an overgrowth of certain bacteria. It is sometimes accompanied by discharge, odor, pain, itching or burning. How common is bacterial vaginosis? Bacterial vaginosis (BV) is the most common vaginal infection in women of",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/bacterial-vaginosis.html"
+  },
+  {
+    "name": "arboviral-encephalitis",
+    "title": "Arboviral Encephalitis",
+    "description": "What is arboviral encephalitis? Encephalitis is an inflammation of the brain that can be caused by an Arthropod borne virus (arbovirus). Arthropods include mosquitoes and ticks. In Illinois, arboviruses are transmitted to humans by the bites of infected mosquitoes. Encephalitis due to St. Louis virus (SLE), West Nile virus (WNV) and California group viruses are the arboviral",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/arboviral-encephalitis.html"
+  },
+  {
+    "name": "chagas",
+    "title": "Chagas Disease",
+    "description": "What is Chagas disease? Chagas disease, also called American trypanosomiasis, is caused by infection with the parasite Trypanosoma cruzi. The parasite is primarily transmitted to humans by triatomine bugs (commonly known as kissing bugs). Although most infected with the parasite remain without symptoms, about 20-30 percent will develop serious complications making it a",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/chagas.html"
+  },
+  {
+    "name": "chronic-fatigue-syndrome",
+    "title": "Chronic Fatigue Syndrome",
+    "description": "What is Chronic Fatigue Syndrome? Chronic Fatigue Syndrome (CFS) is not the normal ups and downs experienced in everyday life. The early sign of this illness is a strong and noticeable fatigue that comes on suddenly and often comes and goes or never stops. It is not improved by bed rest and may be worsened by physical or mental activity. Persons with CFS most often function at",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/chronic-fatigue-syndrome.html"
+  },
+  {
+    "name": "chickenpox",
+    "title": "Chickenpox",
+    "description": "What is chickenpox? Chickenpox, a highly contagious disease caused by a virus called varicella zoster, is one of the most commonly reported childhood diseases. Usually mild and not life-threatening to otherwise healthy children, it may be severe in infants, adults and persons with impaired immune systems. Infection confers long immunity; second attacks are rare. How is",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/chickenpox.html"
+  },
+  {
+    "name": "conjunctivitis",
+    "title": "Conjunctivitis",
+    "description": "What is conjunctivitis? Conjunctivitis is an inflammation of the thin, clear membrane (conjunctiva) that covers the white of the eye and the inside surface of the eyelids. Conjunctivitis, commonly known as \"pink eye,\" is most often caused by a virus but also can be caused by bacterial infection, allergies (e.g., cosmetics, pollen) and chemical irritation. How is it spread?",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/conjunctivitis.html"
+  },
+  {
+    "name": "crabs",
+    "title": "Crabs",
+    "description": "What are crabs? Crabs are parasites. Crabs are often referred to as pubic lice and are not to be confused with body lice. The scientific name for crabs is Pediculus pubis. Crabs need blood to survive, but they can live up to 24 hours off a human body. Crabs have three very distinct phases; egg, nit (egg or young louse), and adult louse. The louse is the stage of the parasite",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/crabs.html"
+  },
+  {
+    "name": "cryptosporidiosis",
+    "title": "Cryptosporidiosis",
+    "description": "What is cryptosporidiosis? Cryptosporidiosis is a disease caused by an intestinal parasite. Watery diarrhea and often abdominal cramping are the major symptoms. Other symptoms include nausea, vomiting, fatigue, weight loss and low-grade fever. In some patients, symptoms will come and go and in other patients they will be persistent. Symptoms usually occur about a week after",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/cryptosporidiosis.html"
+  },
+  {
+    "name": "cyclospora",
+    "title": "Cyclospora",
+    "description": "What is Cyclospora? Cyclospora is a one-celled parasite too small to be seen with the naked eye (only 8 to 10 microns in diameter). Its full name is Cyclospora cayetanensis. It used to be called by such names as cyanobacterium-like, coccidia-like and Cyclospora-like bodies (CLBs). The first known cases of Cyclospora infection were diagnosed in 1977 (reported in the medical",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/cyclospora.html"
+  },
+  {
+    "name": "depression",
+    "title": "Depression",
+    "description": "What is depression? Everyone gets the blues now and then, but when there is little joy or pleasure after visiting with friends or after seeing a good movie, there may be a more serious problem. A depressed mood that stays around for a while, without letting up, can change the way a person thinks or feels. Doctors call this \"clinical depression.\" Depression is a common, serious",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/depression.html"
+  },
+  {
+    "name": "creutzfeldt-jakob-disease",
+    "title": "Creutzfeldt-Jakob Disease",
+    "description": "What is Creutzfeldt-Jakob disease? Creutzfeldt-Jakob disease (CJD) is a rare, fatal brain disorder caused by a prion. The disease causes mental deterioration and a variety of neurological symptoms, and usually leads to death within a year of onset. Threre are various forms of CJD; in about 85 percent of the cases, the cause is unknown. One form of CJD may be linked to",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/creutzfeldt-jakob-disease.html"
+  },
+  {
+    "name": "diphtheria",
+    "title": "Diphtheria",
+    "description": "Diphtheria is a serious disease caused by a toxin (poison) made by bacteria. It causes a thick coating in the back of the nose or throat that makes it hard to breathe or swallow. It can be deadly.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/diphtheria.html"
+  },
+  {
+    "name": "afm",
+    "title": "Acute Flaccid Myelitis (AFM)",
+    "description": "As of January 1, 2020, IDPH is reporting the following number of patients under investigation during the given year and the number of cases that are confirmed, probable, and not cases according to the Centers for Disease Control and Prevention (CDC) after review of the case information provided. IDPH is continually working with the health care providers and local health",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/afm.html"
+  },
+  {
+    "name": "cmv",
+    "title": "Cytomegalovirus (CMV) and Congenital CMV Infection",
+    "description": "Cytomegalovirus (CMV) is a common virus that infects people of all ages. Most people infected wtih CMV show no signs or symptoms. However, CMV infection can cause serious health problems for people with weakened immune systems, as well as babies infected with the virus before they are born (congenital CMV). About CMV Signs and Symptoms Most people with CMV infection have no",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/cmv.html"
+  },
+  {
+    "name": "candida-auris",
+    "title": "Candida auris (C. auris)",
+    "description": "Candida auris, also known as C. auris, is a type of yeast that can cause serious infections in humans, including bloodstream or wound infections. When people develop C. auris on places such as their skin but do not have an infection, this is called colonization",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/infectious-diseases/candida-auris.html"
+  },
+  {
+    "name": "neonatal-abstinence-syndrome",
+    "title": "Neonatal Abstinence Syndrome",
+    "description": "Neonatal Abstinence Syndrome (NAS) is a drug withdrawal syndrome that occurs among opioid-exposed infants shortly after birth. NAS is associated with poor fetal growth and preterm birth, and can cause symptoms such as seizures, excessive irritability, poor feeding, and dehydration. Definition and Impact of NAS Neonatal abstinence syndrome refers to the collection of signs and",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/prevention-wellness/neonatal-abstinence-syndrome.html"
+  },
+  {
+    "name": "mpox",
+    "title": "Mpox",
+    "description": "Illinois MPV cases include all probable and confirmed cases. The Centers for Disease Control and Prevention (CDC) numbers may not match due to differences in reporting timeframes. All numbers displayed are provisional and subject to change.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/mpox.html"
+  },
+  {
+    "name": "measles",
+    "title": "Measles",
+    "description": "Measles is a serious, highly contagious disease caused by a virus. The virus is spread easily through the air when an infected person coughs or sneezes or by direct contact with infected nose or throat secretions. The best protection against measles is vaccination.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/measles.html"
+  },
+  {
+    "name": "mrsa-pet-owners",
+    "title": "MRSA (Pet Owners)",
+    "description": "What is MRSA? MRSA is a type of bacteria that is resistant to some antibiotics. Although MRSA is primarily found in people, animals also can carry or be infected with the organism. How is MRSA transmitted to people and animals? Direct skin-to-skin contact is the most common way MRSA is transmitted, but it also can be transmitted by contaminated objects such as bandages from a",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/mrsa-pet-owners.html"
+  },
+  {
+    "name": "meningitis",
+    "title": "Meningitis",
+    "description": "What is meningitis? Meningitis is an inflammation of the membranes that cover the brain and spinal cord. It can be caused by a number of infectious agents including viruses and bacteria. The type of meningitis and its cause can only be determined by conducting laboratory tests. Viral meningitis (also called aseptic meningitis) is the most common type of meningitis and is less",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/meningitis.html"
+  },
+  {
+    "name": "meningococcal-disease",
+    "title": "Meningococcal Disease",
+    "description": "What is meningococcal disease? Meningococcal disease is a bacterial infection. It occurs commonly in two forms: inflammation of the membranes covering the brain and spinal cord (meningococcal meningitis) or a severe blood infection (meningococcemia). The bacterium that causes meningococcal disease, Neisseria meningitidis, first infects the mucous membranes of the nose and",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/meningococcal-disease.html"
+  },
+  {
+    "name": "non-gonococcal-urethritis",
+    "title": "Non-Gonococcal Urethritis (NGU)",
+    "description": "What is NGU? NGU (Non-Gonococcal Urethritis) is an infection of the urethra caused by pathogens (germs) other than gonorrhea. How common is NGU? Several types of germs cause NGU, the most common and serious is chlamydia. Chlamydia is very common in both males and females. The diagnosis of NGU is more commonly made in males than in females, mainly due to the anatomical",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/non-gonococcal-urethritis.html"
+  },
+  {
+    "name": "molluscum-contagiosum",
+    "title": "Molluscum Contagiosum",
+    "description": "What is molluscum contagiosum? Molluscum contagiosum is a common skin disease that is caused by a virus. The disease is generally mild and should not be a reason for concern or worry. Molluscum infection causes small white, pink, or flesh-colored bumps or growths with a dimple or pit in the center. The bumps are usually smooth and firm and can appear anywhere on the body. They",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/molluscum-contagiosum.html"
+  },
+  {
+    "name": "pertussis",
+    "title": "Pertussis",
+    "description": "What is pertussis? Pertussis, more commonly known as whooping cough, is caused by a bacterium (germ), Bordetella pertussis, that lives in the mouth, nose and throat. The germ is highly contagious and is easily spread from person-to-person. How is pertussis spread? The bacteria are shed in discharges from the nose and throat and spread to others through coughing and sneezing.",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/pertussis.html"
+  },
+  {
+    "name": "pneumococcal-disease",
+    "title": "Pneumococcal Disease",
+    "description": "What is pneumococcal disease? Pneumococcal disease is caused by Streptococcus pneumonia, bacteria that can attack different parts of the body. The bacteria can cause serious infections of the lungs (pneumonia), the bloodstream (bacteremia) and the covering of the brain (meningitis). Pneumococcal pneumonia is a serious illness, accounting for 10 percent to 25 percent annually",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/pneumococcal-disease.html"
+  },
+  {
+    "name": "mumps",
+    "title": "Mumps",
+    "description": "Mumps is an acute infectious viral disease that can cause swelling and tenderness of the salivary glands in the cheeks and jaw. One dose of mumps vaccine, given in combination with measles and rubella (called MMR), is recommended for all children at 12 to 15 months and a second dose at 4 to 6 years of age. The vaccine usually produces life-long immunity. In addition, persons",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/mumps.html"
+  },
+  {
+    "name": "methyl-parathion",
+    "title": "Methyl Parathion",
+    "description": "What is methyl parathion? Methyl parathion, sometimes called \"cotton poison,\" is a chemical pesticide that should be used only in open fields to control insects. Most commonly, it is used on cotton, soybean and vegetable fields. Methyl parathion is not meant to be used inside buildings or homes. Such use is illegal. Methyl parathion is a brownish liquid that turns milky white",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/methyl-parathion.html"
+  },
+  {
+    "name": "mrsa",
+    "title": "MRSA",
+    "description": "What is Staphylococcus aureus (staph)? Staphylococcus aureus (Staf-lo-coc-cus aw-ree-us) is a bacterium that is commonly carried in the nose and on the skin of healthy people. The bacterium is often referred to as \"staph.\" It is estimated that 30 percent of the population carries staph on the skin or in the nose. Methicillin or penicillin and cephalosporins are generally used",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/mrsa.html"
+  },
+  {
+    "name": "pelvic-inflammatory-disease",
+    "title": "Pelvic Inflammatory Disease (PID)",
+    "description": "What is PID? Pelvic inflammatory disease (PID) refers to infection of the uterus (womb), fallopian tubes (tubes that carry eggs from the ovaries to the uterus) and other reproductive organs that causes symptoms such as lower abdominal pain. It is a serious complication of some sexually transmitted diseases (STDs), especially chlamydia and gonorrhea. PID can damage the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/pelvic-inflammatory-disease.html"
+  },
+  {
+    "name": "parkinsons",
+    "title": "Parkinson's Disease",
+    "description": "What is Parkinson's Disease? Parkinson's disease (PD) belongs to a group of conditions called motor system disorders, which are the result of the loss of dopamine-producing brain cells. Parkinson's disease is a brain disorder that leads to shaking, stiffness, and difficulty with walking, balance, and coordination. Symptoms generally develop slowly over years. Parkinson's",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/parkinsons.html"
+  },
+  {
+    "name": "noroviruses",
+    "title": "Noroviruses",
+    "description": "What are noroviruses? Noroviruses are a group of related viruses that affect the intestinal tract causing gastroenteritis illness. This group of viruses has been also referred to as caliciviruses and Norwalk-like viruses. These viruses are an important cause of gastrointestinal illness throughout the United States, including Illinois. What are the symptoms of noroviruses? Many",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/noroviruses.html"
+  },
+  {
+    "name": "polio",
+    "title": "Polio",
+    "description": "What is polio? Polio is an infectious disease caused by a virus that lives in the throat and intestinal tract. It is most often spread through person-to-person contact with the stool of an infected person and also may be spread through oral/nasal secretions. Polio used to be very common in the United States (U.S.) and caused severe illness in thousands of people each year",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/polio.html"
+  },
+  {
+    "name": "naegleria-fowleri",
+    "title": "Naegleria Fowleri",
+    "description": "What is primary amebic meningoencephalitis? Primary amebic meningoencephalitis (PAM) is a rare but nearly always fatal disease caused by infection with an ameba (single-celled living organism) called Naegleria fowleri. How does infection with Naegleria fowleri occur? Naegleria fowleri enters the body through the nose and travels to the brain, where it destroys brain tissue and",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/naegleria-fowleri.html"
+  },
+  {
+    "name": "norwalk-virus",
+    "title": "Norwalk Virus",
+    "description": "What are Norwalk and Norwalk-like viruses? These viruses, also known as small round structured viruses or caliciviruses, are an important cause of gastrointestinal illness throughout the United States, including Illinois. Members of this category of viruses, subsequently referred to as Norwalk-like viruses, are typically named for the location in which they were first",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/norwalk-virus.html"
+  },
+  {
+    "name": "tb",
+    "title": "Tuberculosis (TB)",
+    "description": "What is tuberculosis? Tuberculosis (TB) is a contagious and potentially life-threatening disease transmitted through the air. While it can affect any part of the body (such as the brain, the kidneys or the spine), TB usually affects the lungs. When first infected with the TB germ, people usually do not feel sick or have any symptoms. However, they may develop active TB disease",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/infectious-diseases/tb.html"
+  },
+  {
+    "name": "stroke",
+    "title": "Stroke",
+    "description": "Stroke or \"brain attack\" The origination of the term \"brain attack\" and its application to stroke are credited to two world-renowned neurologists from Canada. The National Stroke Association began to champion the term in 1990 because it characterizes the medical condition and communicates the actual event more clearly to the public than does the word \"stroke.\" The brain is the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/heart-stroke/stroke.html"
+  },
+  {
+    "name": "syphilis",
+    "title": "Syphilis",
+    "description": "What is syphilis? Syphilis is a sexually transmitted disease (STD) caused by the bacterium Treponema pallidum. Syphilis can cause long-term complications and/or death if not adequately treated. How common is syphilis? During 2011, there were 46,042 new cases of syphilis, of which 13,970 were of primary and secondary (P&S) syphilis, the earliest and most transmissible stages of",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/stds/syphilis.html"
+  },
+  {
+    "name": "stds",
+    "title": "Sexually Transmitted Diseases (STD)",
+    "description": "Sexually Transmitted Diseases (STDs) are some of the most commonly reported diseases in the United States. It is estimated that there are almost 20 million new STD infections each year in the United States. Of these new infections, half are among young people age 15-24. Many STDs can be easily diagnosed and treated. It is common that many people will not have any symptoms when",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/stds.html"
+  },
+  {
+    "name": "rocky-mountain-spotted-fever",
+    "title": "Rocky Mountain Spotted Fever",
+    "description": "What is Rocky Mountain spotted fever? Rocky Mountain spotted fever is an acute infectious disease transmitted to humans by the bite of an infected tick. The disease occurs throughout the United States during months when ground temperatures reach 40 degrees Fahrenheit or more and ticks are active. Who gets Rocky Mountain spotted fever? Both children and adults can be affected",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/tickborne-illnesses/rocky-mountain-spotted-fever.html"
+  },
+  {
+    "name": "rsv",
+    "title": "Respiratory Syncytial Virus (RSV)",
+    "description": "Respiratory Syncytial Virus (RSV) is a common cold virus that causes runny nose, fever, and cough that usually go away on their own in a about a week for most. Some people are more susceptible to RSV including young children, those with compromised immune systems, and those with advanced age",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/respiratory-disease/diseases/rsv.html"
+  },
+  {
+    "name": "rabies",
+    "title": "Rabies",
+    "description": "What is rabies? Rabies is a deadly disease caused by a virus that attacks the central nervous system. The virus is present primarily in the saliva, brain tissue and spinal fluid of a rabid animal. What animals can get rabies? Rabies can affect all mammals. Since 1995 in the United States, more than 7,000 animals per year--most of them wild--have been diagnosed as having the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/rabies.html"
+  },
+  {
+    "name": "seoul-virus",
+    "title": "SEOUL VIRUS",
+    "description": "What is Seoul virus? Seoul virus is a virus carried by rats. It is a milder type of hantavirus. How do humans become infected with Seoul virus? Seoul virus is carried and transmitted by rats. The virus has been found in both pet rats and wild rats around the world. People can become infected with this virus after coming into contact with urine, droppings, or saliva of infected",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/seoul-virus.html"
+  },
+  {
+    "name": "sars-healthcare-providers",
+    "title": "SARS (Healthcare Providers)",
+    "description": "What is SARS? Severe acute respiratory syndrome (SARS) is a viral respiratory illness. The illness usually begins with a high fever (measured temperature greater than 100.4&#183;F [&gt;38.0&#183;C]). The fever is sometimes associated with chills or other symptoms, including headache, general feeling of discomfort, and body aches. Some people also experience mild respiratory symptoms at the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/sars-healthcare-providers.html"
+  },
+  {
+    "name": "sarcoidosis",
+    "title": "Sarcoidosis",
+    "description": "What is sarcoidosis? Sarcoidosis is an inflammatory disease that can appear in almost any body organ, but most often starts in the lungs or lymph nodes. The disease also can affect the liver, skin, heart, nervous system and kidneys. No one yet knows what causes sarcoidosis. It can appear suddenly and then disappear. Or it can develop gradually and produce symptoms that come",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/sarcoidosis.html"
+  },
+  {
+    "name": "rubella",
+    "title": "Rubella",
+    "description": "What is rubella? Rubella, also called German measles, is a viral illness that is spread from person to person by breathing in droplets of respiratory secretions exhaled by an infected person. It also may be spread by touching the nose or mouth after a person's hands have been in contact with secretions (such as saliva) of an infected person. How common is rubella? Rubella and",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/rubella.html"
+  },
+  {
+    "name": "shigellosis",
+    "title": "Shigellosis",
+    "description": "What is shigellosis? Shigellosis is an infectious disease caused by a group of bacteria called Shigella. Most people who are infected with Shigella develop diarrhea, fever and stomach cramps a day or two after being exposed to the bacterium. The diarrhea is often bloody. Shigellosis usually resolves in five to seven days. In some persons, especially young children and the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/shigellosis.html"
+  },
+  {
+    "name": "rotavirus",
+    "title": "Rotavirus",
+    "description": "What is rotavirus? Rotavirus is a virus that causes severe diarrhea and vomiting. It affects mostly babies and young children. Diarrhea and vomiting can lead to serious dehydration (loss of body fluid). If dehydration is not treated, it can be deadly. The rotavirus vaccine protects against this illness. What are the symptoms of rotavirus? Rotavirus may cause the following: &#8226;",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/rotavirus.html"
+  },
+  {
+    "name": "salmonella",
+    "title": "Salmonella",
+    "description": "What is Salmonella? Salmonella bacteria cause much of the food poisoning in the world, including an estimated 1,400,000 cases ofsalmonellosis in the United States each year. In Illinois about 1,500 to 2,000 cases of this foodborne illness are reported each year. Salmonella is a general name for a group of about 2,000 closely related bacteria that cause illness by reproducing",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/salmonella.html"
+  },
+  {
+    "name": "stress",
+    "title": "Stress",
+    "description": "What is stress? Stress is the body's reaction to a perceived threat; it is often called the \"fight or flight\" syndrome. During times of stress, adrenaline and hormones are released and the nervous system is activated, sharpening our senses. Simultaneously, our pulse rises, our muscles tense and our immune system shuts down. Life without stress would be boring. Life with too",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/stress.html"
+  },
+  {
+    "name": "sars",
+    "title": "SARS",
+    "description": "What is SARS? Severe acute respiratory syndrome (SARS) is a respiratory illness caused by a virus. The illness usually begins with a high fever. Patients also may have chills or other symptoms, including headache, general feeling of discomfort, body aches and diarrhea. Some individuals' illness also may begin with mild respiratory symptoms. After two to seven days, SARS",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/sars.html"
+  },
+  {
+    "name": "scabies",
+    "title": "Scabies",
+    "description": "What is scabies? Human scabies is caused by an infestation of the skin by the human itch mite (Sarcoptes scabiei var. hominis). The microscopic scabies mite burrows into the upper layer of the skin where it lives and lays its eggs. The most common symptoms of scabies are intense itching and a pimple-like skin rash. The scabies mite usually is spread by direct, prolonged,",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/scabies.html"
+  },
+  {
+    "name": "trichomoniasis",
+    "title": "Trichomoniasis",
+    "description": "What is trichomoniasis? Trichomoniasis (or \"trich\") is a very common sexually transmitted disease (STD) that is caused by infection with a protozoan parasite called Trichomonas vaginalis. Although symptoms of the disease vary, most women and men who have the parasite cannot tell they are infected. What causes trichomoniasis? Trichomoniasis is caused by the single-celled",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/trichomoniasis.html"
+  },
+  {
+    "name": "tetanus",
+    "title": "Tetanus",
+    "description": "What is tetanus? Tetanus is a serious disease caused by a toxin (poison) made by bacteria. It causes painful muscle stiffness and can be deadly. The DTaP and Tdap vaccines prevent tetanus. What are the symptoms of tetanus? Tetanus in children starts with headache, jaw cramping, and muscle spasms (sudden, involuntary muscle tightening).",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/tetanus.html"
+  },
+  {
+    "name": "yellow-fever-vaccination",
+    "title": "Yellow Fever Vaccination",
+    "description": "The U.S. Public Health Service has designated the Illinois Department of Public Health as the responsible party for determining which Illinois physicians are authorized to provide, under their orders, yellow fever vaccine for persons who travel outside the United States. The Illinois Department of Public Health, Communicable Disease Section (CD) is responsible for processing",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/infectious-diseases/yellow-fever-vaccination.html"
+  },
+  {
+    "name": "west-nile-virus",
+    "title": "West Nile Virus (WNV)",
+    "description": "West Nile virus emerged in the United States in the New York metropolitan area in the fall of 1999. Since then, the virus, which can be transmitted to humans by the bite of an infected mosquito, has quickly spread across the country. In Illinois, West Nile virus was first identified in September 2001 when laboratory tests confirmed its presence in two dead crows found in the",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/west-nile-virus.html"
+  },
+  {
+    "name": "vaginitis",
+    "title": "Vaginitis",
+    "description": "Vaginitis is described medically as irritation and/or inflammation of the vagina. Vaginitis is a very common disease affecting millions of women each year. The three most common vaginal infections are bacterial vaginosis (BV), candida vaginitis (yeast infection) and trichomonas vaginitis (trich). What are the signs or symptoms of vaginitis? Vaginal infections can produce a",
+    "url": "https://dph.illinois.gov/content/soi/idph/en/topics-services/diseases-and-conditions/diseases-a-z-list/diseases/vaginitis.html"
+  }
+]

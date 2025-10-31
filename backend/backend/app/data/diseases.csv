@@ -1,0 +1,101 @@
+Disease,Symptoms
+Common Cold,runny nose sneezing cough mild fever congestion sore throat
+Influenza (Flu),high fever chills dry cough sore throat muscle aches fatigue headache
+COVID-19,fever dry cough fatigue sore throat loss of smell shortness of breath
+Chickenpox,itchy rash vesicles fever malaise blister
+Measles,high fever cough runny nose conjunctivitis rash koplik spots
+Mumps,swollen parotid glands jaw pain fever headache
+Rubella,low fever rash lymph node swelling sore throat
+Dengue Fever,high fever severe headache retro-orbital pain joint pain muscle pain rash nausea
+Malaria,fever chills sweating headache malaise anemia
+Typhoid Fever,prolonged fever abdominal pain constipation diarrhea headache rose spots
+Cholera,profuse watery diarrhea dehydration vomiting leg cramps
+Tuberculosis (TB),chronic cough weight loss night sweats fever chest pain hemoptysis
+Pneumonia,fever productive cough chest pain shortness of breath fatigue
+Bronchitis,cough sputum wheeze chest discomfort fatigue
+Sinusitis,facial pain nasal congestion purulent discharge headache cough
+Tetanus,muscle stiffness trismus lockjaw spasms difficulty swallowing
+Whooping Cough (Pertussis),severe paroxysmal cough whoop vomiting after cough
+Diphtheria,sore throat pseudomembrane fever swollen glands
+Meningitis,fever severe headache neck stiffness photophobia nausea
+Hepatitis A,fever fatigue nausea abdominal pain jaundice dark urine
+Hepatitis B,fever malaise abdominal pain jaundice dark urine
+Hepatitis C,fatigue abdominal pain jaundice nausea
+HIV/AIDS,fever weight loss chronic diarrhea recurrent infections oral thrush
+Leprosy,skin lesions numbness paresthesia muscle weakness
+Rabies,fever paresthesia hydrophobia agitation confusion
+Gastroenteritis,diarrhea vomiting stomach pain cramps nausea dehydration
+Food Poisoning,nausea vomiting diarrhea abdominal cramps fever
+Peptic Ulcer Disease,epigastric pain burning nausea bloating early satiety
+Irritable Bowel Syndrome (IBS),abdominal pain bloating diarrhea constipation alternating
+Crohn’s Disease,abdominal pain diarrhea weight loss fatigue perianal disease
+Ulcerative Colitis,bloody diarrhea abdominal pain urgency weight loss
+Gallstones,right upper quadrant pain nausea vomiting fatty food intolerance jaundice
+Hepatitis (all types combined),fatigue jaundice dark urine abdominal pain nausea
+Pancreatitis,severe epigastric pain radiating to back nausea vomiting elevated enzymes
+Gastroesophageal Reflux Disease (GERD),heartburn regurgitation chest burning sour taste
+Hypertension (High Blood Pressure),often asymptomatic headache dizziness blurred vision
+Hypotension (Low Blood Pressure),dizziness fainting fatigue blurred vision
+Coronary Artery Disease (CAD),chest pain exertional angina shortness of breath
+Myocardial Infarction (Heart Attack),severe chest pain sweating nausea shortness of breath radiating arm pain
+Heart Failure,shortness of breath orthopnea edema fatigue weight gain
+Arrhythmia,palpitations irregular heartbeat dizziness syncope
+Atherosclerosis,claudication chest pain stroke risk
+Stroke (Cerebrovascular Accident),sudden weakness one side slurred speech facial droop numbness
+Deep Vein Thrombosis (DVT),leg swelling pain warmth redness
+Peripheral Artery Disease (PAD),leg pain on walking cold feet poor pulses nonhealing wounds
+Asthma,wheezing shortness of breath chest tightness cough nighttime symptoms
+Chronic Obstructive Pulmonary Disease (COPD),chronic cough sputum dyspnea wheeze
+Emphysema,progressive dyspnea barrel chest cough
+Lung Cancer,cough weight loss hemoptysis chest pain hoarseness
+Pulmonary Fibrosis,progressive dyspnea dry cough clubbing crackles
+Migraine,throbbing headache nausea photophobia phonophobia aura
+Epilepsy,recurrent seizures loss of awareness convulsions
+Alzheimer’s Disease,memory loss cognitive decline disorientation
+Parkinson’s Disease,resting tremor bradykinesia rigidity postural instability
+Stroke (Overlaps Neurology & Cardiology),sudden weakness slurred speech facial droop vision loss
+Meningitis (Overlaps Infectious & Neurological),fever severe headache neck stiffness photophobia
+Multiple Sclerosis (MS),vision problems weakness numbness spasticity fatigue relapses
+Bell’s Palsy,facial weakness drooping inability to close eye taste changes
+Neuralgia (Trigeminal / Postherpetic),sharp facial pain electric shock-like burning
+Encephalitis,fever headache confusion seizures
+Rheumatoid Arthritis,joint pain swelling morning stiffness fatigue symmetrical
+Osteoarthritis,joint pain stiffness crepitus limited motion
+Gout,acute joint pain redness swelling
+Lupus (SLE),fatigue joint pain rash photosensitivity oral ulcers
+Ankylosing Spondylitis,low back pain stiffness improves with exercise limited spine mobility
+Fibromyalgia,widespread pain fatigue sleep disturbance cognitive fog
+Psoriatic Arthritis,joint pain swelling dactylitis psoriasis skin lesions
+Osteoporosis,bone fragility fractures height loss back pain
+Diabetes Mellitus (Type 1),polyuria polydipsia weight loss fatigue
+Diabetes Mellitus (Type 2),polyuria polydipsia blurred vision fatigue infections
+Hypothyroidism,fatigue weight gain cold intolerance dry skin constipation
+Hyperthyroidism,weight loss heat intolerance palpitations tremor anxiety
+Cushing’s Syndrome,weight gain moon face central obesity skin thinning
+Addison’s Disease,weight loss fatigue hypotension hyperpigmentation salt craving
+Polycystic Ovary Syndrome (PCOS),irregular periods hirsutism acne weight gain infertility
+Metabolic Syndrome,abdominal obesity high blood pressure high blood sugar high triglycerides low hdl
+Obesity,excess body weight fatigue sleep apnea joint pain
+Hyperlipidemia,high cholesterol often asymptomatic xanthomas
+Urinary Tract Infection (UTI),burning urination frequency urgency suprapubic pain
+Kidney Stones,flank pain hematuria nausea vomiting
+Acute Kidney Injury (AKI),reduced urine output fluid overload fatigue
+Chronic Kidney Disease (CKD),fatigue edema decreased appetite pruritus nocturia
+Glomerulonephritis,hematuria edema hypertension foamy urine
+Nephrotic Syndrome,edema frothy urine hyperlipidemia fatigue
+Prostatitis,pelvic pain painful urination urinary frequency fever
+Eczema (Atopic Dermatitis),itchy dry skin rash flexural involvement
+Psoriasis,scaly plaques extensor surfaces nail pitting
+Urticaria (Hives),itchy wheals transient raised rash
+Fungal Skin Infection (Ringworm, Athlete’s Foot),itchy ring-shaped rash scaling
+Acne,facial papules pustules comedones oily skin
+Vitiligo,depigmented macules patches
+Rosacea,facial flushing papules telangiectasia
+Scabies,intense nocturnal itching burrows rash web spaces
+Anemia,fatigue pallor shortness of breath dizziness
+Thalassemia,anemia pallor jaundice bone deformities (severe)
+Sickle Cell Disease,pain crises anemia jaundice infections
+Hemophilia,excessive bleeding joint bleeds prolonged bleeding
+Leukemia,fever fatigue bruising bleeding infections
+Lymphoma,lymph node enlargement fever night sweats weight loss
+Myeloma (Multiple Myeloma),bone pain anemia recurrent infections hypercalcemia

@@ -1,0 +1,37 @@
+{
+  "headache": {
+    "synonyms": ["head pain", "cephalgia", "head ache", "back side head pain", "eye strain"],
+    "diseases": [
+      { "name": "Migraine", "suggestions": ["Sumatriptan", "Rest in dark room"], "prior": 0.7 },
+      { "name": "Tension-type headache", "suggestions": ["NSAIDs", "Stress reduction"], "prior": 0.5 }
+    ]
+  },
+  "heartburn": {
+    "synonyms": ["stomach burning", "acid reflux", "acidity", "burning stomach", "sour taste"],
+    "diseases": [
+      { "name": "Gastroesophageal reflux disease", "suggestions": ["PPIs (e.g., Omeprazole)", "Diet modifications"], "prior": 0.6 },
+      { "name": "Gastritis", "suggestions": ["PPI", "Avoid NSAIDs"], "prior": 0.4 }
+    ]
+  },
+  "knee pain": {
+    "synonyms": ["keen pain", "knee ache", "joint pain knee", "knee swelling"],
+    "diseases": [
+      { "name": "Osteoarthritis", "suggestions": ["Topical diclofenac", "Physiotherapy"], "prior": 0.6 },
+      { "name": "Ligament strain", "suggestions": ["RICE", "Analgesics"], "prior": 0.5 }
+    ]
+  },
+  "cough": {
+    "synonyms": ["productive cough", "dry cough", "sputum"],
+    "diseases": [
+      { "name": "Upper respiratory infection", "suggestions": ["Rest", "Fluids", "Symptomatic relief"], "prior": 0.5 },
+      { "name": "Acute bronchitis", "suggestions": ["Antitussives", "Fluids"], "prior": 0.5 }
+    ]
+  },
+  "fever": {
+    "synonyms": ["high temperature", "raised temperature", "pyrexia", "chills", "sweats"],
+    "diseases": [
+      { "name": "Viral fever", "suggestions": ["Acetaminophen", "Hydration"], "prior": 0.6 },
+      { "name": "Bacterial infection", "suggestions": ["Clinical evaluation", "Antibiotics if indicated"], "prior": 0.4 }
+    ]
+  }
+}

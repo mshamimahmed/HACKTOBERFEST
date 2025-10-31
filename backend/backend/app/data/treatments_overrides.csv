@@ -1,0 +1,101 @@
+Disease,Treatments
+Common Cold,Paracetamol (Acetaminophen); Ibuprofen; Decongestants
+Influenza (Flu),Oseltamivir
+COVID-19,Remdesivir; Dexamethasone (severe); Supportive care
+Chickenpox,Acyclovir
+Measles,Vitamin A; Supportive care
+Mumps,Paracetamol; NSAIDs
+Rubella,Paracetamol; NSAIDs
+Dengue Fever,Paracetamol; IV fluids (supportive)
+Malaria,Artemether–Lumefantrine; Chloroquine (where sensitive)
+Typhoid Fever,Azithromycin; Ceftriaxone
+Cholera,Oral Rehydration Salts; Azithromycin; Doxycycline
+Tuberculosis (TB),Isoniazid; Rifampicin; Ethambutol; Pyrazinamide
+Pneumonia,Amoxicillin; Azithromycin; Ceftriaxone
+Bronchitis,Supportive care; Doxycycline; Azithromycin
+Sinusitis,Amoxicillin–Clavulanate
+Tetanus,Human Tetanus Immunoglobulin; Metronidazole; Benzodiazepines (spasm control)
+Whooping Cough (Pertussis),Azithromycin; Erythromycin
+Diphtheria,Diphtheria Antitoxin; Penicillin; Erythromycin
+Meningitis,Ceftriaxone; Vancomycin; Acyclovir (if HSV suspected)
+Hepatitis A,Supportive care
+Hepatitis B,Tenofovir; Entecavir
+Hepatitis C,Sofosbuvir-based DAAs
+HIV/AIDS,Tenofovir; Lamivudine/Emtricitabine; Dolutegravir/Efavirenz (ART)
+Leprosy,Dapsone; Rifampicin; Clofazimine
+Rabies,Rabies Vaccine; Human Rabies Immunoglobulin
+Gastroenteritis,Oral Rehydration Salts; Azithromycin (traveler's diarrhea)
+Food Poisoning,Supportive care; Ciprofloxacin; Azithromycin
+Peptic Ulcer Disease,Proton Pump Inhibitors; Clarithromycin; Amoxicillin
+Irritable Bowel Syndrome (IBS),Hyoscine; Loperamide
+Crohn’s Disease,Aminosalicylates; Corticosteroids; Anti-TNF biologics
+Ulcerative Colitis,Mesalazine; Corticosteroids; Biologics
+Gallstones,Ursodeoxycholic Acid; Surgery (when indicated)
+Hepatitis (all types combined),Supportive care; Antivirals (etiology-dependent)
+Pancreatitis,Analgesics; IV Fluids; Treat cause
+Gastroesophageal Reflux Disease (GERD),Omeprazole; Famotidine
+Hypertension (High Blood Pressure),Lisinopril; Amlodipine; Hydrochlorothiazide
+Hypotension (Low Blood Pressure),IV Fluids; Vasopressors (Norepinephrine)
+Coronary Artery Disease (CAD),Aspirin; Atorvastatin; Metoprolol
+Myocardial Infarction (Heart Attack),Antiplatelets; Anticoagulants; Beta-blockers; Statins
+Heart Failure,ACE inhibitors/ARNI; Beta-blockers; Furosemide; Spironolactone
+Arrhythmia,Beta-blockers; Amiodarone; Apixaban (AF)
+Atherosclerosis,Statins; Antiplatelet therapy
+Stroke (Cerebrovascular Accident),tPA (eligible); Aspirin; Statin
+Deep Vein Thrombosis (DVT),Heparin; Apixaban; Rivaroxaban; Warfarin
+Peripheral Artery Disease (PAD),Aspirin; Clopidogrel; Statins
+Asthma,Salbutamol (SABA); Inhaled Corticosteroids
+Chronic Obstructive Pulmonary Disease (COPD),LABA/LAMA bronchodilators; Inhaled Corticosteroids
+Emphysema,Bronchodilators; Pulmonary rehab; Oxygen (when indicated)
+Lung Cancer,Platinum-based chemotherapy; Targeted therapy; Immune checkpoint inhibitors
+Pulmonary Fibrosis,Pirfenidone; Nintedanib
+Migraine,Sumatriptan; Propranolol; Topiramate
+Epilepsy,Levetiracetam; Sodium Valproate; Carbamazepine
+Alzheimer’s Disease,Donepezil; Memantine
+Parkinson’s Disease,Levodopa/Carbidopa; Pramipexole
+Stroke (Overlaps Neurology & Cardiology),tPA (eligible); Antiplatelet; Statin
+Meningitis (Overlaps Infectious & Neurological),Ceftriaxone; Vancomycin; Acyclovir (if HSV suspected)
+Multiple Sclerosis (MS),High-dose Corticosteroids (relapse); Interferons; Natalizumab; Ocrelizumab
+Bell’s Palsy,Prednisone; Eye care
+Neuralgia (Trigeminal / Postherpetic),Gabapentin; Pregabalin; Amitriptyline
+Encephalitis,Acyclovir; Supportive care
+Rheumatoid Arthritis,Methotrexate; NSAIDs; Anti-TNF biologics
+Osteoarthritis,Paracetamol; NSAIDs; Topical NSAIDs/Capsaicin
+Gout,NSAIDs; Colchicine; Allopurinol
+Lupus (SLE),Hydroxychloroquine; Corticosteroids; Azathioprine; Mycophenolate
+Ankylosing Spondylitis,NSAIDs; Anti-TNF biologics
+Fibromyalgia,Duloxetine; Pregabalin; Exercise therapy
+Psoriatic Arthritis,Methotrexate; Anti-TNF; IL-17 inhibitors
+Osteoporosis,Alendronate; Denosumab
+Diabetes Mellitus (Type 1),Insulin (rapid/long-acting)
+Diabetes Mellitus (Type 2),Metformin; GLP-1 RA; SGLT2 inhibitors
+Hypothyroidism,Levothyroxine
+Hyperthyroidism,Methimazole; Propylthiouracil; Propranolol
+Cushing’s Syndrome,Surgery; Ketoconazole; Mitotane
+Addison’s Disease,Hydrocortisone; Fludrocortisone
+Polycystic Ovary Syndrome (PCOS),Combined Oral Contraceptives; Metformin
+Metabolic Syndrome,Statins; Antihypertensives; Lifestyle
+Obesity,Semaglutide (GLP-1 RA)
+Hyperlipidemia,Statins (Atorvastatin)
+Urinary Tract Infection (UTI),Nitrofurantoin; Trimethoprim; Fosfomycin
+Kidney Stones,NSAIDs; Tamsulosin
+Acute Kidney Injury (AKI),Supportive care; Dialysis (if required)
+Chronic Kidney Disease (CKD),ACE inhibitors/ARBs; Diuretics
+Glomerulonephritis,Corticosteroids; Immunosuppressants; ACE inhibitors
+Nephrotic Syndrome,Diuretics; Steroids/Immunosuppressants (etiology dependent)
+Prostatitis,Ciprofloxacin; Trimethoprim; Tamsulosin
+Eczema (Atopic Dermatitis),Topical corticosteroids; Emollients; Topical tacrolimus
+Psoriasis,Topical steroids; Methotrexate; Biologics
+Urticaria (Hives),Cetirizine; Loratadine
+Fungal Skin Infection (Ringworm, Athlete’s Foot),Terbinafine; Clotrimazole
+Acne,Benzoyl Peroxide; Topical Retinoid; Doxycycline; Isotretinoin (severe)
+Vitiligo,Topical steroids; Calcineurin inhibitors; Phototherapy
+Rosacea,Topical metronidazole; Azelaic acid; Doxycycline (sub-antimicrobial)
+Scabies,Permethrin 5% cream; Ivermectin (oral)
+Anemia,Iron (Ferrous sulfate); Vitamin B12; Folate
+Thalassemia,Transfusion support; Deferasirox (chelation)
+Sickle Cell Disease,Hydroxyurea; Folic Acid; Transfusion support
+Hemophilia,Factor VIII/IX concentrates
+Leukemia,Chemotherapy; Targeted agents (subtype dependent)
+Lymphoma,CHOP-like regimens; Rituximab (B-cell)
+Myeloma (Multiple Myeloma),Bortezomib; Lenalidomide; Dexamethasone

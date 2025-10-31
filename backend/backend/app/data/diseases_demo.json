@@ -1,0 +1,42 @@
+[
+  {
+    "disease_id": "d-100",
+    "disease_name": "Influenza-like Illness",
+    "symptoms_text": "fever cough sore throat runny nose headache fatigue muscle aches",
+    "existing_drugs": [
+      {
+        "drug_id": "dr-osa",
+        "drug_name": "Oseltamivir"
+      },
+      {
+        "drug_id": "dr-ibp",
+        "drug_name": "Ibuprofen"
+      }
+    ],
+    "notes": "Common seasonal flu-like symptoms"
+  },
+  {
+    "disease_id": "d-200",
+    "disease_name": "Migraine",
+    "symptoms_text": "headache photophobia nausea vomiting pulsating unilateral throbbing",
+    "existing_drugs": [
+      {
+        "drug_id": "dr-sum",
+        "drug_name": "Sumatriptan"
+      }
+    ],
+    "notes": "Primary headache disorder"
+  },
+  {
+    "disease_id": "d-300",
+    "disease_name": "Gastroenteritis",
+    "symptoms_text": "diarrhea vomiting abdominal pain cramps nausea dehydration fever",
+    "existing_drugs": [
+      {
+        "drug_id": "dr-ors",
+        "drug_name": "Oral Rehydration Salts"
+      }
+    ],
+    "notes": "Stomach flu, often viral"
+  }
+]
